@@ -1,0 +1,87 @@
+body {
+
+    background-image: url('./imagenes/bluelight.jpg');
+    background-size: cover;
+}
+
+.logo {
+    max-width: 7%;
+
+}
+
+#bodyregistro {
+    color: rgb(255, 253, 251);
+}
+
+.registro {
+    text-align: right;
+    padding: 20px;
+}
+
+.imagengif {
+    padding-top: 100px;
+
+
+}
+
+.texto1 {
+    padding-top: 100px;
+}
+
+/* ----- style de contacto ---------- */
+
+#cuerpo {
+
+    text-align: center;
+}
+
+#contenedor {
+
+    font-size: 100px auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+.typed {
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+/* ----- titulo contacto --------- */
+#contenedor h2 {
+
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding-top: 100px;
+        
+}
+
+.textocomentarios {
+    padding-top: 50px;
+    width: 100px;
+    color: aliceblue;
+}
+/* -------------------seccion registro------------------------ */
+.textoregistro{
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+/* ------ cards ------------------ */
+.card-body {
+
+    background-image: url('./imagenes/fondogris.jpg') !important;
+}
+
+
+/* ----- mapa -------------- */
+
+.mapa{
+    padding-top: 20px;
+}
+
+/* ------ estructura cuerpo -------- */
+.estructura{
+    padding-top: 50px;
+}
